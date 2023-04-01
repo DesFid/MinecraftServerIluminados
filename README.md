@@ -1,2 +1,0 @@
-# MinecraftServerIluminados
-Minecraft Server LosIluminados
